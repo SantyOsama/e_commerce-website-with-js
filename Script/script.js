@@ -1,9 +1,9 @@
 /*********** Slider **************/
 let interval;
 const imageSources = [
-  "../images/pro-1.png",
-  "../images/pro-2.png",
-  "../images/pro-3.png",
+  "../Images/pro-1.png",
+  "../Images/pro-2.png",
+  "../Images/pro-3.png",
 ];
 let currentIndex = 0;
 
